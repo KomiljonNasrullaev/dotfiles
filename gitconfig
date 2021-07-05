@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = komiljon.nasrullayev@gmail.com
+	name = Komiljon Nasrullaev
